@@ -16,13 +16,15 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/ErickCM14/erick-carranza-meza.git
 
 2. **Instalar xampp**:
 
    Debes contar con xampp y apache instalado en tu local
 
 3. **Configurar constantes**:
+
+    En la carpeta \application\config\constants.php configuras las constantes hasta abajo del documento
 
     URL_BACKEND -> URL donde corre el backend
 
@@ -39,6 +41,6 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 
 ## Versiones
 
-    Codeigniter V3.1.13
+Codeigniter V3.1.13
 
-    XAMPP V3.3.0
+XAMPP V3.3.0
