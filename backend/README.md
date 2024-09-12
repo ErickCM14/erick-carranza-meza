@@ -41,7 +41,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 
    ```bash
     node generateToken.js
-    
+    ```
     Recuerda guardar el token que imprimira en consola y ponerlo en el front para validar las peticiones
 
     Si requiren las colecciones hechas previamente las encontraran en la carpeta public/collections
@@ -49,10 +49,10 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 
 ## Versiones
 
-    NodeJS V18.20.4
+    NodeJS 18.20.4
 
-    NPM V10.8.3
+    NPM 10.8.3
     
-    Express V4.20.0
+    Express 4.20.0
 
     BDD MongoDB
