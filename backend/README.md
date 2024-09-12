@@ -6,6 +6,7 @@ API para crear, leer, actualizar y eliminar productos. Se realizaron todas las e
 
 
 - [Instalación](#instalación)
+- [Ejecución](#ejecución)
 - [Versiones](#versiones)
 
 
@@ -46,6 +47,23 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 
     Si requiren las colecciones hechas previamente las encontraran en la carpeta public/collections
 
+## Ejecución
+
+### Ejecutar con Nodemon
+
+   Para iniciar el proyecto en modo de desarrollo con **Nodemon**, que automáticamente reinicia el servidor cuando detecta cambios en el código, utiliza el siguiente comando:
+
+   ```bash
+   npm run dev
+   ```
+
+### Ejecutar sin Nodemon
+
+   Ejecutar la aplicación en un entorno sin herramientas adicionales de desarrollo
+
+   ```bash
+   npm run start
+   ```
 
 ## Versiones
 
