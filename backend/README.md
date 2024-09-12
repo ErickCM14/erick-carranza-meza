@@ -38,17 +38,8 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 
     ```bash
     PORT=3000
-    ```
-
-    ```bash
     MONGO_URI=mongodb://127.0.0.1:27017/tendencys
-    ```
-
-    ```bash
     USERID=66e164de6ff679813ba5ac70
-    ```
-    
-    ```bash
     JWT_SECRET=secretpassword2024
     ```
 
