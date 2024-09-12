@@ -17,12 +17,14 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/ErickCM14/erick-carranza-meza.git
+   ```
 
 2. **Instalar dependencias**:
 
    ```bash
    npm install
+   ```
 
 3. **Configurar variables de entorno**:
 
