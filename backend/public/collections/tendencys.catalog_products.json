@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66e2d4e2a58a28d2a3aaaa3c"
+  },
+  "name": "Producto api",
+  "description": "Descripción api",
+  "height": 2,
+  "length": 3,
+  "width": 6,
+  "image": "images/product.jpg",
+  "createdAt": {
+    "$date": "2024-09-12T11:47:46.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-12T11:47:46.192Z"
+  },
+  "__v": 0
+}]
