@@ -32,7 +32,17 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
     
     USERID -> Este userid se creo directamente el usuario desde la bdd
 
-    JWT_SECRET -> Password para el token
+    JWT_SECRET -> Password para el token - use secretpassword2024 para el usuario _id: 66e164de6ff679813ba5ac70
+
+    Crea un archivo .env en la carpeta raíz de tu proyecto y configura las siguientes variables
+
+    PORT=3000
+    
+    MONGO_URI=mongodb://127.0.0.1:27017/tendencys
+
+    USERID=66e164de6ff679813ba5ac70
+    
+    JWT_SECRET=secretpassword2024
 
 4. **Relacionar un token con el usuario en access token**:
 
