@@ -13,20 +13,4 @@
     "$date": "2024-09-11T01:28:33.681Z"
   },
   "__v": 0
-},
-{
-  "_id": {
-    "$oid": "66e2d0889d7e6e8c5e3bc346"
-  },
-  "user_id": {
-    "$oid": "66e2cf3a417bd8a21cc30f1e"
-  },
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmUyY2YzYTQxN2JkOGEyMWNjMzBmMWUiLCJpYXQiOjE3MjYxNDA1NTJ9.E1L2631uq5UliIxHQf7bAQKJkqBJXeUfummJ4AkHJY8",
-  "createdAt": {
-    "$date": "2024-09-11T01:29:12.228Z"
-  },
-  "updatedAt": {
-    "$date": "2024-09-11T01:29:12.228Z"
-  },
-  "__v": 0
 }]

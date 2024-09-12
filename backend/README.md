@@ -78,10 +78,10 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 
 ## Versiones
 
-    NodeJS 18.20.4
+NodeJS 18.20.4
 
-    NPM 10.8.3
+NPM 10.8.3
     
-    Express 4.20.0
+Express 4.20.0
 
-    BDD MongoDB
+BDD MongoDB
