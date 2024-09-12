@@ -36,13 +36,21 @@ Sigue estos pasos para instalar y configurar el proyecto en tu entorno local.
 
     Crea un archivo .env en la carpeta raíz de tu proyecto y configura las siguientes variables
 
+    ```bash
     PORT=3000
-    
-    MONGO_URI=mongodb://127.0.0.1:27017/tendencys
+    ```
 
+    ```bash
+    MONGO_URI=mongodb://127.0.0.1:27017/tendencys
+    ```
+
+    ```bash
     USERID=66e164de6ff679813ba5ac70
+    ```
     
+    ```bash
     JWT_SECRET=secretpassword2024
+    ```
 
 4. **Relacionar un token con el usuario en access token**:
 
